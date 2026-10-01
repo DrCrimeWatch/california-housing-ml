@@ -1,7 +1,7 @@
 # California Housing Dataset: Machine Learning Experiment
 
-## Assignment Overview
-This assignment explores the California Housing dataset and applies machine
+## Experiment Overview
+This experiment explores the California Housing dataset and applies machine
 learning regression techniques to predict median house values. Linear
 Regression and Ridge Regression are compared using 5-fold cross-validation.
 
