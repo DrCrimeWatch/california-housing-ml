@@ -1,4 +1,4 @@
-# California Housing Machine Learning Assignment
+# California Housing Dataset: Machine Learning Experiment
 
 ## Assignment Overview
 This assignment explores the California Housing dataset and applies machine
